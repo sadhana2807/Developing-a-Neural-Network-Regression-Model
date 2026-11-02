@@ -137,19 +137,15 @@ plt.show()
 
 ```
 
-### Dataset Information
-Include screenshot of the generated data
 
 ### OUTPUT
-#### Dataset Information:
+### Dataset Information:
 <img width="285" height="771" alt="image" src="https://github.com/user-attachments/assets/19fb23a8-1d93-43f7-866e-0587fe4d10b9" />
-#### Epoch:
+### Epoch:
 <img width="388" height="290" alt="image" src="https://github.com/user-attachments/assets/6dd91b8d-93bb-4586-b21f-185ce4cac938" />
-#### New Sample Data Prediction:
+### New Sample Data Prediction:
 <img width="277" height="212" alt="image" src="https://github.com/user-attachments/assets/0565b313-b2b9-42b2-be3d-b7794ba9b12f" />
-
-
-#### Graph:
+### Graph:
 <img width="922" height="632" alt="image" src="https://github.com/user-attachments/assets/44ccc1f1-4477-4386-9bb0-1236927de9b7" />
 
 
